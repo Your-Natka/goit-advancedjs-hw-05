@@ -92,3 +92,7 @@ button.addEventListener('click', () => { concatenation(input.value, 'hello!');
 результат:
 
 yourText hello!
+
+# Ми також можемо стежити за зміною файлу в режимі реального часу, виконавши команду:
+
+tsc test.ts -watch
